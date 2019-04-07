@@ -36,7 +36,7 @@ plt.ylim([0,65])                                # Range of the y axis
 plt.title(ode.name)                             # Figure title from model name
 
 plt.figure()
-plt.hold(True)                                  # Sequences of plot commands will not clear the existing figures
+#plt.hold(True)                                  # Sequences of plot commands will not clear the existing figures
 for i, v0 in enumerate(np.linspace(-80,80,20)):
     ode.set( ics = { 'v': v0 } )                # Initial condition
     # Trajectories are called pol0, pol1, ...
