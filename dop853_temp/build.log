@@ -1,0 +1,7 @@
+[39mrunning build_ext[0m
+[39mrunning build_src[0m
+[39mbuild_src[0m
+[39mbuilding py_modules sources[0m
+[39mbuilding extension "/Users/jostap/DynamicalSystems/Python/ExamplesPyDSTool/dop853_temp._dop853_HHnet_vf" sources[0m
+[39mswig: /Users/jostap/DynamicalSystems/Python/ExamplesPyDSTool/dop853_temp/dop853_HHnet_vf.i[0m
+[39mswig -python -I/anaconda3/lib/python3.7/site-packages/numpy/core/include -I/Users/jostap/DynamicalSystems/Python/ExamplesPyDSTool -I/anaconda3/lib/python3.7/site-packages/PyDSTool/integrator -o /Users/jostap/DynamicalSystems/Python/ExamplesPyDSTool/dop853_temp/dop853_HHnet_vf_wrap.c -outdir /Users/jostap/DynamicalSystems/Python/ExamplesPyDSTool/dop853_temp /Users/jostap/DynamicalSystems/Python/ExamplesPyDSTool/dop853_temp/dop853_HHnet_vf.i[0m
